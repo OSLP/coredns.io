@@ -1,7 +1,7 @@
-baseurl = "https://coredns.io/"
+baseurl = "https://firecdn.work/"
 languageCode = "en-us"
-title = "CoreDNS: DNS and Service Discovery"
-copyright = "CoreDNS - All Rights Reserved"
+title = "FireCDN: CDN and Service Discovery"
+copyright = "FireCDN - All Rights Reserved"
 theme = "coredns"
 enableGitInfo = true
 
@@ -14,10 +14,10 @@ enableGitInfo = true
   # Enable with non empty string.
   popup    = ""
   logo     = "/images/CoreDNS_Colour_Icon.png"
-  twitter  = "https://twitter.com/corednsio"
-  github   = "https://github.com/coredns/coredns"
-  manual   = "https://github.com/coredns/coredns.io/blob/master/content/manual"
-  email    = "info@coredns.io"
+  twitter  = "https://twitter.com/armoeb"
+  github   = "https://github.com/Niksend/firecdn"
+  manual   = "https://github.com/oslp/coredns.io/blob/master/content/manual"
+  email    = "freshp0325@jaw.jp"
   slack    = "https://slack.cncf.io/"
 
 [[menu.main]]
